@@ -1,9 +1,7 @@
 
-<img src="gif/coderman"/>
-
-
-
 ## 👋Hello there! I'm [Keiner Meza][website]👦
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 - 💻 Web Developer 🌱Father and Veganj 
 - 🔭 I’m currently working on a Courses or YTu
