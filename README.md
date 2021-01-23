@@ -1,7 +1,31 @@
 
 ## 👋Hello there! I'm [Keiner Meza][website]👦
 
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+
+<a href="https://www.facebook.com/Keinermeza2004">
+  <img align="left" title="Facebook" width="47px" src="https://img.icons8.com/color/40/000000/facebook-new.png" />
+</a>
+
+<a href="https://www.instagram.com/keinermeza04/">
+  <img align="left" title="Instagram" width="48px" src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/>
+</a>
+
+<a href="https://twitter.com/Keiner_Meza04">
+  <img align="left" title="Twitter" width="45px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
+<a href="https://www.twitch.tv/keinfloo">
+  <img align="left" title="Twitch" width="45px" src="https://img.icons8.com/fluent/48/000000/twitch.png" />
+</a>
+
+<a href="https://github.com/KeinerMeza04">
+  <img align="left" title="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png" />
+</a>
+
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+
 
 
 
