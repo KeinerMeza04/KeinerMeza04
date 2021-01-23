@@ -21,7 +21,7 @@
   <img align="left" title="GitHub" width="48px" src="https://img.icons8.com/fluent/48/000000/github.png" />
 </a>
 
-<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 
 
 
