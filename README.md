@@ -32,7 +32,7 @@
 # Front End
 <div align="center">
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" height="80" title="Html5" />  
+<a href="https://devdocs.io/html/"><img style="margin: 10px" src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" height="80" title="Html5" /></a>  
 
 <img style="margin: 10px" src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" height="80" title="Css3" />
 
