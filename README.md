@@ -24,6 +24,9 @@
 
 ## Tecnologias 
 
+<img src="gif/code.gif" alt="">
+
+
 <table><tr><td valign="top" width="50%">
 
 ## Front End
@@ -56,4 +59,3 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
 </div></td>
 <br/>  
-
