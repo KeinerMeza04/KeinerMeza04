@@ -32,23 +32,20 @@
 # Front End
 <div align="center">
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" height="96" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" height="80" title="Html5" />  
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" height="96" />
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" height="80" title="Css3" />
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/javascript-logo-1.png" alt="JavaScript" height="96" />
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/javascript-logo-1.png" alt="JavaScript" height="80" />
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/sass.png" alt="Sass" height="96"/>  
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/sass.png" alt="Sass" height="80"/>  
 
-<img style="margin: 10px" src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="BoopStrap" height="96"/>  
+<img style="margin: 10px" src="https://icons.getbootstrap.com/assets/img/icons-hero.png" alt="BoopStrap" height="80"/>  
 
-<img style="margin: 10px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="Tailwind" height="66"/> 
+<img style="margin: 10px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="Tailwind" height="60"/> 
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" height="96" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" height="80" />  
   
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" height="96" /> 
-
-<img style="margin: 10px" src="https://cdn.changelog.com/uploads/icons/topics/aQo/icon_small.png" height="96" alt="Gatsby" /> 
 
 </div></td>
 
