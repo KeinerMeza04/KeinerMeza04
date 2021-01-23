@@ -45,7 +45,7 @@
 
 ## Tecnologias 
 
-<img src="gif/code.gif" alt="">
+<img src="gif/code.gif" alt="gif" width="800" height="300">
 
 <table><tr><td valign="top" width="33%">
 
