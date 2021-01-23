@@ -4,13 +4,11 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
 
-- 💻 Web Developer 🌱Father and Veganj 
-- 🔭 I’m currently working on a Courses or YTu
-- 🌱 I’m currently learning more about web devh
-- 👯 I’m looking to collaborate webinar,meetup...
-- 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him' hfhfh
-- ⚡ Fun fact: I love videogames but no time to play (thats fun)
+###- 💖International Policy💖
+
+###- 💻Programming💻
+
+###- 🎯Frond End🎯
 
 <!--Link-->
 [website]: https://www.facebook.com/Keinermeza2004
@@ -18,7 +16,7 @@
 
 <hr>
 <hr>
-</br>
+</>
 
 ###
 
