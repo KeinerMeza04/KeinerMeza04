@@ -27,7 +27,7 @@
 <img src="gif/code.gif" alt="">
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 # Front End
 <div align="center">
@@ -44,26 +44,17 @@
 
 <img style="margin: 10px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" alt="Tailwind" height="66"/> 
 
-
-
 <img style="margin: 10px" src="https://img.icons8.com/color/96/000000/react-native.png" alt="React" height="96" />  
   
-
 <img style="margin: 10px" src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" height="96" /> 
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" height="96" /> 
+<img style="margin: 10px" src="https://cdn.changelog.com/uploads/icons/topics/aQo/icon_small.png" height="96" alt="Gatsby" /> 
 
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" height="96" /> 
-
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/redux.png" alt="Redux" height="96" /> 
+</div></td>
 
 
 
-</div></td><td valign="top" width="50%">
-
-
-
-
+<td valign="top" width="33%">
 
 # Back End  
 <div align="center">  
@@ -87,7 +78,7 @@
 
 
 
-<table><tr><td valign="top" width="50%">
+<table><tr><td valign="top" width="33%">
 
 # Tools
 <div align="center">
