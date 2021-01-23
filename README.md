@@ -1,7 +1,7 @@
 
 ## 👋Hello there! I'm [Keiner Meza][website]👦
 
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px">
 
 <a href="https://www.facebook.com/Keinermeza2004">
   <img align="left" title="Facebook" width="47px" src="https://img.icons8.com/color/40/000000/facebook-new.png" />
