@@ -1,6 +1,6 @@
-<div align="center">
-<img src="gif/coderman" align="center" style="width: 100%" />
-</div>
+
+<img src="gif/coderman"/>
+
 
 
 ## 👋Hello there! I'm [Keiner Meza][website]👦
