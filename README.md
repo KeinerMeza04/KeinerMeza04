@@ -32,16 +32,14 @@
 # Front End
 <div align="center">
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="90" />  
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/html-5.png" alt="HTML5" height="96" />  
 
-<img style="margin: 10px" src="https://img.icons8.com/nolan/100/html-5.png" alt="Electron" height="80"/>  
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/css3.png" alt="CSS3" height="96" />
 
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="90" />
-
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="80" />
+<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/javascript-logo-1.png" alt="JavaScript" height="96" />
 
 
-
+<!-- <img style="margin: 10px" src="https://img.icons8.com/nolan/100/html-5.png" alt="Electron" height="80"/>   -->
 
 
 
