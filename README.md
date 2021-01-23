@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning more about web devh
 - 👯 I’m looking to collaborate webinar,meetup...
 - 💬 Ask me about to be a web dev
-- 😄 Pronouns: 'he/him'
+- 😄 Pronouns: 'he/him' hfhfh
 - ⚡ Fun fact: I love videogames but no time to play (thats fun)
 
 <!--Link-->
