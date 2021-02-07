@@ -24,11 +24,6 @@
 <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="700" height="300">
 
 
-
-
-
-### - 💖International Policy💖
-
 ### - 💻Programming💻
 
 ### - 🎯Frond End🎯
@@ -68,7 +63,6 @@
 
 <img style="margin: 10px" src="https://img.icons8.com/color/96/000000/react-native.png" title="React.js" height="85" />  
 
-<img src="https://media.tenor.com/images/1c89c72d55326cba7aa56696b46bb5d1/tenor.gif" height="300" width="200">
   
 </div></td>
 
@@ -99,7 +93,6 @@
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  -->
-<img src="https://media.tenor.com/images/bb06bbd5166b5617785ea6f1876aa62c/tenor.gif" alt="Coder GIF" width="400" height="200">
 </div></td>
 
 
@@ -120,8 +113,6 @@
 
 <img style="margin: 10px" src="https://img.icons8.com/fluent/96/000000/github.png" alt="GitHub" height="80" />
 
-<img src="https://media.tenor.com/images/9da8d060ea30106bab8efb5c5be788ff/tenor.gif" alt="Coder GIF" width="400" height="200">
-</div></td>
 
 </div></td>
 
