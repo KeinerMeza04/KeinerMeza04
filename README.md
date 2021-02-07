@@ -26,7 +26,7 @@
 
 ### - 💻Programming💻
 
-### - 🎯Frond End🎯
+### - 🎯Frond🎯
 
 
 <!--Link-->
