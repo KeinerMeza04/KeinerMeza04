@@ -102,10 +102,7 @@
 
 # Tools
 <div align="center">
-
-<img style="margin: 10px" src="https://img.icons8.com/color/96/000000/wordpress.png" title="WordPress" height="80" />
-
-<img style="margin: 10px" src="https://ayudawp.com/wp-content/uploads/2018/03/logo-elementor.jpg" height="80" title="Elementor" />
+>
 
 <img style="margin: 10px" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" title="VisualStudioCode" height="80" />
 
