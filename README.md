@@ -102,7 +102,6 @@
 
 # Tools
 <div align="center">
->
 
 <img style="margin: 10px" src="https://img.icons8.com/fluent/96/000000/visual-studio-code-2019.png" title="VisualStudioCode" height="80" />
 
